@@ -13,4 +13,4 @@ namespace BigSchool.DTOs
     {
         public string FolloweeId { get; set; }
     }
-}
+} 
